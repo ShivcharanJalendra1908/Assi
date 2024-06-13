@@ -1,0 +1,4 @@
+# Shivcharan Jalendra
+
+Q1. Create a local git repository in your local machine first.
+Commit the initial code
